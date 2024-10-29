@@ -1,11 +1,11 @@
 package org.example;
 
-public class Person {
+public class PersonEx1 {
 
     private String name;
     private int age;
 
-    public Person(String name, int age){
+    public PersonEx1(String name, int age){
         this.name = name;
         this.age = age;
     }
